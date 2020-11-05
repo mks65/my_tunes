@@ -1,0 +1,4 @@
+[submodule "chenJac_hernandezCar_siniscalcoFra"]
+	path = chenJac_hernandezCar_siniscalcoFra
+	url = https://github.com/KarlWithK/my_tunes_mks.git
+	branch = master
