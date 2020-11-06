@@ -2,3 +2,7 @@
 	path = chenJac_hernandezCar_siniscalcoFra
 	url = https://github.com/KarlWithK/my_tunes_mks.git
 	branch = master
+[submodule "chahalSub_hamzahMoh_zhangAle"]
+	path = chahalSub_hamzahMoh_zhangAle
+	url = https://github.com/ForestDweller014/Project_00
+	branch = main
