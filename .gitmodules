@@ -6,3 +6,7 @@
 	path = chahalSub_hamzahMoh_zhangAle
 	url = https://github.com/ForestDweller014/Project_00
 	branch = main
+[submodule "siuVic_ganHao_natMic"]
+	path = siuVic_ganHao_natMic
+	url = https://github.com/Michael-Nath/00_myTunes_dogs.git
+	branch = main
