@@ -10,3 +10,7 @@
 	path = siuVic_ganHao_nathMic
 	url = https://github.com/Michael-Nath/00_myTunes_dogs.git
 	branch = main
+[submodule "ku-benjetJer_linLei_zhengYul"]
+	path = ku-benjetJer_linLei_zhengYul
+	url = https://github.com/llin11/my_tunes
+	branch = main
