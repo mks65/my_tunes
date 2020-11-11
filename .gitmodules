@@ -14,3 +14,7 @@
 	path = ku-benjetJer_linLei_zhengYul
 	url = https://github.com/llin11/my_tunes
 	branch = main
+[submodule "maoMad_raoIva_zhangJin"]
+	path = maoMad_raoIva_zhangJin
+	url = https://github.com/irao12/systems_my_tunes
+	branch = main
