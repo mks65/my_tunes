@@ -18,6 +18,3 @@
 	path = maoMad_raoIva_zhangJin
 	url = https://github.com/irao12/systems_my_tunes
 	branch = main
-[submodule "hirotaEis_huLuc_waldAle"]
-	path = hirotaEis_huLuc_waldAle
-	url = https://github.com/lhu10/systems_my_tunes.git
