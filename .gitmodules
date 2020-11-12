@@ -28,3 +28,7 @@
 [submodule "huMic_yeGen"]
 	path = huMic_yeGen
 	url = https://github.com/GuessHuIAm/project_mytunes.git
+[submodule "chanSer_liSun_vostrikovVla"]
+	path = chanSer_liSun_vostrikovVla
+	url = https://github.com/villinoid/systems_myTunes.git
+	branch = main
