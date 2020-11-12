@@ -48,3 +48,7 @@
 	path = jiangVin_yeCul_liuAli
 	url = https://github.com/CullenLYe/project00_myTunes.git
 	branch = main
+[submodule "yeCul_jiangVin_liuAli"]
+	path = yeCul_jiangVin_liuAli
+	url = https://github.com/CullenLYe/project00_myTunes.git
+	branch = main
