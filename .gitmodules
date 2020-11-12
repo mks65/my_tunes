@@ -22,3 +22,6 @@
 	path = hirotaEis_huLuc_waldAle
 	url = https://github.com/lhu10/systems_my_tunes.git
 	branch = main
+[submodule "hathawayMay_misquittaKri_prasadAmi"]
+	path = hathawayMay_misquittaKri_prasadAmi
+	url = https://github.com/AmitPr/mks65c-whitenoise-myTunes.git
