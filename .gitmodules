@@ -25,3 +25,6 @@
 [submodule "hathawayMay_misquittaKri_prasadAmi"]
 	path = hathawayMay_misquittaKri_prasadAmi
 	url = https://github.com/AmitPr/mks65c-whitenoise-myTunes.git
+[submodule "huMic_yeGen"]
+	path = huMic_yeGen
+	url = https://github.com/GuessHuIAm/project_mytunes.git
