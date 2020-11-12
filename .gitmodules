@@ -44,3 +44,7 @@
 	path = luRan_zhaoGav_zhangDev
 	url = https://github.com/RandyLu0/Project-00-myTunes
 	branch = main
+[submodule "jiangVin_yeCul_liuAli"]
+	path = jiangVin_yeCul_liuAli
+	url = https://github.com/CullenLYe/project00_myTunes.git
+	branch = main
