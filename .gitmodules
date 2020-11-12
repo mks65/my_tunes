@@ -32,3 +32,7 @@
 	path = chanSer_liSun_vostrikovVla
 	url = https://github.com/villinoid/systems_myTunes.git
 	branch = main
+[submodule "leeLuc_shenkerEth_zhouKel"]
+	path = leeLuc_shenkerEth_zhouKel
+	url = https://github.com/ethan-shenker/project00_myTunes_systems.git
+	branch = main
